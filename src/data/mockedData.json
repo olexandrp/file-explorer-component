@@ -31,19 +31,19 @@
     "id": 6,
     "type": "file",
     "name": "Photo 1",
-    "src": "https://picsum.photos/200/300",
+    "src": "https://picsum.photos/id/6/200/300",
     "folder": 5
   }, {
     "id": 7,
     "type": "file",
     "name": "Photo 2",
-    "src": "https://picsum.photos/200/300",
+    "src": "https://picsum.photos/id/7/200/300",
     "folder": 5
   }, {
     "id": 8,
     "type": "file",
     "name": "Photo 3",
-    "src": "https://picsum.photos/200/300",
+    "src": "https://picsum.photos/id/8/200/300",
     "folder": 5
   }, {
     "id": 9,
@@ -55,13 +55,13 @@
     "id": 10,
     "type": "file",
     "name": "Photo 4",
-    "src": "https://picsum.photos/200/300",
+    "src": "https://picsum.photos/id/10/200/300",
     "folder": 9
   }, {
     "id": 11,
     "type": "file",
     "name": "Photo 5",
-    "src": "https://picsum.photos/200/300",
+    "src": "https://picsum.photos/id/11/200/300",
     "folder": 9
   }]
 }

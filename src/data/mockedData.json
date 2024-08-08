@@ -1,0 +1,67 @@
+{
+  "data": [{
+    "id": 1,
+    "type": "folder",
+    "name": "Folder 1",
+    "files": [2, 3, 4]
+  }, {
+    "id": 2,
+    "type": "file",
+    "name": "1.txt",
+    "folder": 1,
+    "content": "1111111111111"
+  }, {
+    "id": 3,
+    "type": "file",
+    "name": "2.txt",
+    "folder": 1,
+    "content": "2222222222222"
+  }, {
+    "id": 4,
+    "type": "file",
+    "name": "3.txt",
+    "folder": 1,
+    "content": "3333333333333"
+  }, {
+    "id": 5,
+    "type": "folder",
+    "name": "Folder 2",
+    "files": [6, 7, 8]
+  }, {
+    "id": 6,
+    "type": "file",
+    "name": "Photo 1",
+    "src": "https://picsum.photos/200/300",
+    "folder": 5
+  }, {
+    "id": 7,
+    "type": "file",
+    "name": "Photo 2",
+    "src": "https://picsum.photos/200/300",
+    "folder": 5
+  }, {
+    "id": 8,
+    "type": "file",
+    "name": "Photo 3",
+    "src": "https://picsum.photos/200/300",
+    "folder": 5
+  }, {
+    "id": 9,
+    "type": "folder",
+    "name": "Folder 3",
+    "folder": 5,
+    "files": [10, 11]
+  }, {
+    "id": 10,
+    "type": "file",
+    "name": "Photo 4",
+    "src": "https://picsum.photos/200/300",
+    "folder": 9
+  }, {
+    "id": 11,
+    "type": "file",
+    "name": "Photo 5",
+    "src": "https://picsum.photos/200/300",
+    "folder": 9
+  }]
+}

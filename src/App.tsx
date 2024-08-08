@@ -1,4 +1,3 @@
-// import * as React from 'react'
 import { useStore } from '@tanstack/react-store'
 import { Store } from '@tanstack/store'
 import mockedData from './data/mockedData.json';
@@ -11,9 +10,7 @@ function App() {
   const collection = useStore(store, (state) => state['data']);
 
   return (
-    <>
-      <FileExplorerComponent collection={collection} />
-    </>
+    <FileExplorerComponent collection={collection} />
   );
 }
 
